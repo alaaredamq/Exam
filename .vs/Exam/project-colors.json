@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "272c6164-ed10-4783-a049-301374fc8083": {
+      "ProjectGuid": "272c6164-ed10-4783-a049-301374fc8083",
+      "DisplayName": "Exam",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e9ead868-209c-4764-9b26-050368839dcd": {
+      "ProjectGuid": "e9ead868-209c-4764-9b26-050368839dcd",
+      "DisplayName": "ExamWCF",
+      "ColorIndex": 1
+    },
+    "0d2b9130-799b-41dc-9191-e53bf92b9817": {
+      "ProjectGuid": "0d2b9130-799b-41dc-9191-e53bf92b9817",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 2
+    },
+    "5b49ddcb-7e86-4a67-a90c-f56bc8de6f0c": {
+      "ProjectGuid": "5b49ddcb-7e86-4a67-a90c-f56bc8de6f0c",
+      "DisplayName": "WebApplication2",
+      "ColorIndex": 3
+    },
+    "40a92e63-d507-4e88-933b-1cff920adf47": {
+      "ProjectGuid": "40a92e63-d507-4e88-933b-1cff920adf47",
+      "DisplayName": "ExamForSoap",
+      "ColorIndex": 4
+    },
+    "41ccbe20-e596-4cd5-93cc-4f152261281a": {
+      "ProjectGuid": "41ccbe20-e596-4cd5-93cc-4f152261281a",
+      "DisplayName": "WCF",
+      "ColorIndex": 5
+    },
+    "05540014-2bbc-4d8f-99ae-92f9d2d3a91c": {
+      "ProjectGuid": "05540014-2bbc-4d8f-99ae-92f9d2d3a91c",
+      "DisplayName": "WCF",
+      "ColorIndex": 6
+    },
+    "730a18e5-a122-4dae-b664-40fc9c3dfbfa": {
+      "ProjectGuid": "730a18e5-a122-4dae-b664-40fc9c3dfbfa",
+      "DisplayName": "Soap",
+      "ColorIndex": 7
+    },
+    "ac9cb75a-f46e-4a71-9e64-00cbd80707cd": {
+      "ProjectGuid": "ac9cb75a-f46e-4a71-9e64-00cbd80707cd",
+      "DisplayName": "ForSoap",
+      "ColorIndex": 8
+    },
+    "b8d09feb-b390-4dd8-851d-49e16553213a": {
+      "ProjectGuid": "b8d09feb-b390-4dd8-851d-49e16553213a",
+      "DisplayName": "ForSoap",
+      "ColorIndex": 9
+    },
+    "81e8de45-6bc9-4c19-bc96-d35d43637a57": {
+      "ProjectGuid": "81e8de45-6bc9-4c19-bc96-d35d43637a57",
+      "DisplayName": "ForSoap",
+      "ColorIndex": 10
+    },
+    "90e37bfa-1f03-4ba2-9912-fb305dbb239c": {
+      "ProjectGuid": "90e37bfa-1f03-4ba2-9912-fb305dbb239c",
+      "DisplayName": "ForSoap",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

@@ -1,0 +1,7 @@
+C:\Users\redal\source\repos\Exam\Soap\bin\Soap.dll.config
+C:\Users\redal\source\repos\Exam\Soap\bin\Soap.dll
+C:\Users\redal\source\repos\Exam\Soap\bin\Soap.pdb
+C:\Users\redal\source\repos\Exam\Soap\obj\Debug\Soap.csproj.AssemblyReference.cache
+C:\Users\redal\source\repos\Exam\Soap\obj\Debug\Soap.csproj.CoreCompileInputs.cache
+C:\Users\redal\source\repos\Exam\Soap\obj\Debug\Soap.dll
+C:\Users\redal\source\repos\Exam\Soap\obj\Debug\Soap.pdb
